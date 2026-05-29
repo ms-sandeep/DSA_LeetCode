@@ -1,0 +1,1 @@
+select lower(email) as Email from person group by Email having count(Email)>=2;
