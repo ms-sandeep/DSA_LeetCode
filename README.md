@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
