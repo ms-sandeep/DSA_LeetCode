@@ -1,16 +1,16 @@
 class Solution(object):
     def rearrangeArray(self, nums):
-        f=[0]*len(nums)
+        ans=[0]*len(nums)
         p=0
         n=1
         for i in range(len(nums)):
             if nums[i]>0:
-                f[p]=nums[i]
+                ans[p]=nums[i]
                 p+=2
             else:
-                f[n]=nums[i]
+                ans[n]=nums[i]
                 n+=2
-        return f
+        return ans
                 
 
 
