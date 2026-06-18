@@ -11,5 +11,5 @@ class Solution(object):
         for j in range(1,len(nums)+1):
             if j not in s:
                 missing=j
-        return[duplicate, missing]
+        return [duplicate,missing]
         
