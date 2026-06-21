@@ -10,6 +10,8 @@ class Solution(object):
                 temp.pop(0)
                 l+=1
             if r-l+1==k:
+                frist_val=temp[0]
+                last_val=temp[-1]
                 ans=min(ans,temp[-1]-temp[0])
         return ans
         
