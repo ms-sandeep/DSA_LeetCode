@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
