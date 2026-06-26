@@ -1,14 +1,9 @@
 class Solution(object):
     def searchRange(self, nums, target):
-        low=0
-        high=len(nums)-1
-        first=-1
-        last=-1
         def first_pos():
             low=0
             high=len(nums)-1
-            first=-1
-        
+            first=-1        
             while low<=high:
                 mid=(low+high)//2
                 if nums[mid]==target:
@@ -19,7 +14,7 @@ class Solution(object):
                 else:
                     high=mid-1
             return first
-            
+
         def last_pos():
             low=0
             high=len(nums)-1
