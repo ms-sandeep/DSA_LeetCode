@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2325-decode-the-message) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
