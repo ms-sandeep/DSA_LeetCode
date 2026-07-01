@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0704-binary-search) |
 ## Simulation
 |  |
