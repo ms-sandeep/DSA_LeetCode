@@ -3,7 +3,6 @@ class Solution(object):
         low=0
         high=len(nums)-1
         ans=-1
-
         while(low<=high):
             mid=(low+high)//2
             if nums[mid]==target:
