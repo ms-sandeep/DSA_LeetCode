@@ -4,7 +4,6 @@ class Solution(object):
         longest = ""
 
         def expandaroundcenter(left, right):
-
             while left >= 0 and right < n and s[left] == s[right]:
                 left -= 1
                 right += 1
