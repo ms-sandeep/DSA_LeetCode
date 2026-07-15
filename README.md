@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
