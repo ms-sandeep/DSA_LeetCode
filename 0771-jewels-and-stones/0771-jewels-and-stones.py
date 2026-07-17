@@ -13,18 +13,18 @@ class Solution(object):
 
         #------------------------------------
 
-        ans=0
-        for i in stones:
-            if i in jewels:
-                ans+=1
-        return ans
+        # ans=0
+        # for i in stones:
+        #     if i in jewels:
+        #         ans+=1
+        # return ans
 
         #----------------------------------
 
-        # count=0
-        # for i in jewels:
-        #     for j in stones:
-        #         if i==j:
-        #             count+=1
-        # return count
+        count=0
+        for i in jewels:
+            for j in stones:
+                if i==j:
+                    count+=1
+        return count
         
