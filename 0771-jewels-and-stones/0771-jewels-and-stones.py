@@ -1,9 +1,12 @@
 class Solution(object):
     def numJewelsInStones(self, jewels, stones):
-        count=0
+        dic={}
         for i in jewels:
-            for j in stones:
-                if i==j:
-                    count+=1
-
+            if i not in dic:
+                dic[i]=0
+        count=0
+        for j in stones:
+            if j in dic:
+                dic[j]+=1
+                count+=1
         return count
