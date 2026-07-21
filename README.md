@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2325-decode-the-message) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
