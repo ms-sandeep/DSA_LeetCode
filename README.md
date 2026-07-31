@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
