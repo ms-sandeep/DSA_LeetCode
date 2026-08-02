@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
