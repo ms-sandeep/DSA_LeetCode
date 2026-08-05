@@ -11,9 +11,7 @@ class Solution(object):
             l = i+1
             r = n-1
             while (l<r): 
-                t_sum=nums[i] + nums[l] + nums[r]
-                
-
+                t_sum=nums[i] + nums[l] + nums[r]             
                 if t_sum == 0:
                     res.append([nums[i],nums[l],nums[r]])
                     l+=1
@@ -23,13 +21,10 @@ class Solution(object):
                         l+=1
                     while l<r and nums[r] == nums[r+1]:
                         r-=1
-
                 elif t_sum > 0:
                     r-=1
                 else:
-                    l+=1
-                
-                
+                    l+=1              
         return res
         
         
