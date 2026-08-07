@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
