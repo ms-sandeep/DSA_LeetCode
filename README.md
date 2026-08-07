@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3731-find-missing-elements](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
