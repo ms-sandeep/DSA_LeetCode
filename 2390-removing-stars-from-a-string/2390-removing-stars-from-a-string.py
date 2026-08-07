@@ -1,17 +1,13 @@
 class Solution(object):
     def removeStars(self, s):
-        lst=[]
+        stack=[]
         for i in s:
             if i == "*":
-                lst.pop()
+                stack.pop()
             else:
-                lst.append(i)
+                stack.append(i)
 
-        result=""
-        for j in lst:
-            result+=j
-
-        return result
+        return "".join(stack)
 
         
         
