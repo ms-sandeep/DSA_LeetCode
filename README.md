@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2325-decode-the-message) |
+| [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
