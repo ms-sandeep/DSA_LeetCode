@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -262,4 +265,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
