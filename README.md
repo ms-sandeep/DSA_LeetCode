@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
