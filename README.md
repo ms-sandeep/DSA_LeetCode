@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
@@ -287,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
