@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0455-assign-cookies) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0645-set-mismatch) |
 ## Sliding Window
