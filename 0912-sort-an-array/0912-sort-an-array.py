@@ -23,6 +23,7 @@ class Solution(object):
 
             for k in range(len(lst)):
                 nums[low+k]=lst[k]
+                
         def mergeSort(nums, low, high):
             if low==high:
                 return
