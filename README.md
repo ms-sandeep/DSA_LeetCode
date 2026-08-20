@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
