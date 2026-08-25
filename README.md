@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2325-decode-the-message) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
