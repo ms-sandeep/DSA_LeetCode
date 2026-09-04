@@ -6,15 +6,14 @@ class Solution(object):
             if i in "({[":
                 stack.append(i)
             else:
-                if not stack:
+                if len(stack)==0:
                     return False
-                    
+
                 if i==')' and stack[-1] !='(':
                     return False
 
                 if i=='}' and stack[-1] !='{':
                     return False
-
 
                 if i==']' and stack[-1] !='[':
                     return False
