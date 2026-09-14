@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
