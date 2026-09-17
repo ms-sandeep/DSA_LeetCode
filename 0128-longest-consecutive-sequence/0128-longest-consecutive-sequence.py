@@ -11,8 +11,6 @@ class Solution(object):
                 count+=1
                 if count > max_len:
                     max_len= count
-                # else:
-                #     count=1
             else:
                 count=1
            
