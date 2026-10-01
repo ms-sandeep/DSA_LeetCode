@@ -18,6 +18,5 @@ class Solution(object):
                 if i==']' and stack[-1] !='[':
                     return False
 
-                stack.pop()
-            
+                stack.pop()            
         return len(stack)==0
