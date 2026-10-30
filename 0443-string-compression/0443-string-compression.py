@@ -10,7 +10,6 @@ class Solution:
                 count +=1
                 i +=1
             s += chars[i]
-
             if count > 1:
                 s += str(count)
             i +=1
