@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3110-score-of-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/3248-snake-in-matrix) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
