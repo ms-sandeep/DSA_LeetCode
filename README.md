@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0455-assign-cookies) |
