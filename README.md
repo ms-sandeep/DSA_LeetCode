@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
