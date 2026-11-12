@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0053-maximum-subarray) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0118-pascals-triangle) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
