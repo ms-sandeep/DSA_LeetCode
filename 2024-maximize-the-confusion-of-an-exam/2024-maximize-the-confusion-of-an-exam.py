@@ -4,19 +4,19 @@ class Solution:
 
         
         l=0
-        f=0
-        t=0
+        f_count=0
+        t_count=0
         ans=0
         for r in range(len(answerKey)):
             if answerKey[r] =='T':
-                t+=1
+                t_count += 1
             else:
-                f+=1
-            while min(t,f)>k :
+                f_count += 1
+            while min(t_count , f_count)>k :
                 if answerKey[l]=='T':
-                    t-=1
+                    t_count-=1
                 else:
-                    f-=1
+                    f_count-=1
                 l+=1
             ans=max(ans,r-l+1)
 
