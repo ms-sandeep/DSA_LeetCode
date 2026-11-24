@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
