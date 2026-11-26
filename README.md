@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ms-sandeep/DSA_LeetCode/tree/master/0268-missing-number) |
