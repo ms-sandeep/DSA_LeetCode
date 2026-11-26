@@ -1,10 +1,10 @@
 class Solution(object):
     def targetIndices(self, nums, target):
         nums.sort()
-        res=[]
+        result = []
         for i in range(len(nums)):
-            if nums[i]== target:
-                res.append(i)
+            if nums[i] == target:
+                result.append(i)
 
-        return res
+        return result
         
